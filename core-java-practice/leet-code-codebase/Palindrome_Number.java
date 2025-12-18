@@ -1,9 +1,6 @@
-package Array_basics_dsa;
-
-
 import java.util.Scanner;
 
-class PalindromeNumber {
+class Palindrome_Number {
     public static void main(String[] args) {
         int num, original, reverse = 0, digit;
 

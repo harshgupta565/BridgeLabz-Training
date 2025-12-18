@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class max_array {
+public class Maximum_element_of_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

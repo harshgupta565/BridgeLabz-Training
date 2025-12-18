@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class min_value {
+public class Second_largest_of_array {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
