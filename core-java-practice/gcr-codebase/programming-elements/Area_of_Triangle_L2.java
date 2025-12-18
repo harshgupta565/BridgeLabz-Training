@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Area_of_Triangle_L2 {
+
+        public static void main(String[] args) {
+
+            Scanner input = new Scanner(System.in);
+
+            System.out.print("Enter base of triangle (in inches): ");
+            double base = input.nextDouble();
+
+            System.out.print("Enter height of triangle (in inches): ");
+            double height = input.nextDouble();
+
+            double areaInSqInches = 0.5 * base * height;
+
+            double areaInSqCm = areaInSqInches * 6.4516;
+
+            System.out.println(
+                    "The area of the triangle is " + areaInSqInches +
+                            " square inches and " + areaInSqCm + " square centimeters"
+            );
+        }
+    }
+
+
+
