@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Maximum_Number_HandShakes {
+public class MaximumNumberHandShakes {
     public static void main(String[] args) {
         System.out.println("Enter number of student :");
         Scanner sc = new Scanner(System.in);

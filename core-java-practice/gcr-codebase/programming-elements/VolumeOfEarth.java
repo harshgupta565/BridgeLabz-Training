@@ -1,4 +1,4 @@
-public class Volume_Earth {
+public class VolumeOfEarth {
 
         public static void main(String[] args) {
 

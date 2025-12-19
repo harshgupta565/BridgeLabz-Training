@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class User_input_fee_calculator {
+public class UserInputFeeCalculator {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

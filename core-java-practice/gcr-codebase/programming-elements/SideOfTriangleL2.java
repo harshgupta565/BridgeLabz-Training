@@ -1,5 +1,8 @@
-import  java.util.*;
-public class Side_Triangle {
+import java.util.Scanner;
+
+public class SideOfTriangleL2 {
+
+
 
 
         public static void main(String[] args) {
@@ -14,5 +17,7 @@ public class Side_Triangle {
             System.out.println("The length of the side is " + side + " whose perimeter is " + perimeter);
         }
     }
+
+
 
 

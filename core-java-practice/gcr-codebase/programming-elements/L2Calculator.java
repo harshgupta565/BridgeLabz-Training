@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L2_Calculator_ {
+public class L2Calculator {
 
 
         public static void main(String[] args) {

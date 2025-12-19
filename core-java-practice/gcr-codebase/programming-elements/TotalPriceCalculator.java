@@ -1,5 +1,5 @@
 import java.util.*;
-public class Total_Price_Calculator {
+public class TotalPriceCalculator {
 
         public static void main(String[] args) {
 

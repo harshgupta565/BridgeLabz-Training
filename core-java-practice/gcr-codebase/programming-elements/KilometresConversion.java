@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Kilometres_Conversion {
+public class KilometresConversion {
 
 
     public static void main(String[] args) {

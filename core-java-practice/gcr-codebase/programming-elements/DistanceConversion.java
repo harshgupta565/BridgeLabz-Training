@@ -1,5 +1,6 @@
-import java.util.*;
-public class Height_Conversion {
+import java.util.Scanner;
+public class DistanceConversion {
+
         public static void main(String[] args) {
 
             Scanner input = new Scanner(System.in);
@@ -11,7 +12,9 @@ public class Height_Conversion {
             double distanceInMiles = distanceInYards / 1760;
 
             System.out.println(
-                    "The distance in feet is " + distanceInFeet + " while in yards is " + distanceInYards + " and miles is " + distanceInMiles);
+                    "The distance in yards is " + distanceInYards +
+                            " while the distance in miles is " + distanceInMiles
+            );
         }
     }
 

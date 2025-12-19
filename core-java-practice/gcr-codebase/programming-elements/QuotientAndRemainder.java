@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Quotient_And_Remainder {
+public class QuotientAndRemainder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1 =sc.nextInt();

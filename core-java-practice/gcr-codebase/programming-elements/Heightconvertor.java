@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Height_convertor {
+public class Heightconvertor {
       public static void main(String[] args) {
 
             Scanner input = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Area_Of_Triangle {
+public class AreaOfTriangle {
         public static void main(String[] args) {
 
             Scanner input = new Scanner(System.in);

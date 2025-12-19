@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Area_of_Triangle_L2 {
+public class AreaofTriangleL2 {
 
         public static void main(String[] args) {
 

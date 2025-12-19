@@ -1,4 +1,4 @@
-public class Profit_Loss_calculation {
+public class ProfitLossCalculation {
     public static void main(String[] args) {
         System.out.println("The Cost Price is INR 129 and Selling Price is INR 191");
         int selling_price = 191;
