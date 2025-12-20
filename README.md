@@ -1,40 +1,133 @@
-# First Day Training Tasks
+Day 1 Training Tasks [16.12.2025]
 
-This repository contains the tasks completed on the **first day of my training**.
+This repository contains the tasks completed on the first day of my training.
 
-## Tasks Covered
-- Basic Java programs
-- Palindrome number program
-- Reverse an array
-- Sum of array elements
-- Maximum  elements of array
-- second largest element of array
+Tasks Covered
 
-## Learning Outcome
-- Gained hands-on practice with basic Java logic
-- Improved understanding of loops and conditions
-- Learned how to push code to GitHub using Git
+Basic Java programs
 
-## Purpose
-The purpose of this repository is to practice core programming concepts and
-to track daily progress during the training period.
+Palindrome number program
 
+Reverse an array
 
-# Day 2 Training Tasks
+Sum of array elements
 
-This repository contains the tasks I completed on **Day 2** of my training.  
-Today, I focused on **practicing simple Java programs** to strengthen my basics and improve problem-solving skills.
+Maximum element of an array
 
-## Key Learning & Insights
-- Gained confidence in **using arithmetic operators** like `+`, `-`, `*`, `/`, and `%` to solve real-life problems.
-- Learned to **calculate percentages, averages, and discounts** efficiently in Java.
-- Understood how to **use variables** effectively to store and manipulate data.
-- Practiced **logic building** for small programs involving distribution, conversions, and calculations.
-- Learned to **combine multiple outputs** in a single print statement, making code cleaner.
-- Strengthened my **problem-solving mindset** by translating everyday scenarios into Java programs.
-- Improved ability to **break down problems into simple steps** and implement them in code.
+Second largest element of an array
 
-## Purpose
-The purpose of this repository is to **build a strong foundation in basic Java programming**, improve logical thinking, and track daily progress during the training period.
+Learning Outcome
 
+Gained hands-on practice with basic Java syntax
 
+Improved understanding of loops and conditional statements
+
+Learned how to push code to GitHub using Git
+
+Day 2 Training Tasks[17.12.2025]
+
+This repository contains the tasks completed on Day 2 of my training.
+
+Tasks Covered
+
+Arithmetic-based Java programs
+
+Percentage and average calculation
+
+Bonus calculation
+
+Multiplication tables
+
+Simple real-life problem-based programs
+
+Key Learning & Insights
+
+Practiced using arithmetic operators like +, -, *, /, and %
+
+Learned to calculate percentages, averages, and discounts
+
+Improved ability to store and manipulate values using variables
+
+Strengthened logical thinking through step-by-step problem solving
+
+Day 3 Training Tasks[18.12.2025]
+
+This repository contains the tasks completed on Day 3 of my training.
+
+Tasks Covered
+
+Odd and even number programs
+
+Prime number check
+
+Factors of a number using for and while loops
+
+Greatest factor of a number
+
+Power of a number
+
+Multiples of a number below 100
+
+Learning Outcome
+
+Developed a clear understanding of for and while loops
+
+Learned how to break loops using conditions
+
+Improved logic for divisor- and factor-based problems
+
+Gained confidence in solving number-based problems
+
+Day 4 Training Tasks[19.12.2025]
+
+This repository contains the tasks completed on Day 4 of my training.
+
+Tasks Covered
+
+Armstrong number check
+
+Harshad number check
+
+Abundant number check
+
+Digit counting program
+
+BMI calculator
+
+Leap year program using if-else and logical operators
+
+Learning Outcome
+
+Learned to extract digits from numbers using loops
+
+Improved understanding of mathematical logic in programming
+
+Practiced boolean logic and conditional chaining
+
+Strengthened problem analysis and implementation skills
+
+Day 5 Training Tasks[20.12.2025]
+
+This repository contains the tasks completed on Day 5 of my training.
+
+Tasks Covered
+
+Calculator using switch-case
+
+Day of Week program using command-line arguments
+
+Grade calculation based on percentage
+
+Youngest and tallest among friends
+
+FizzBuzz using for and while loops
+
+Learning Outcome
+
+Gained clarity on switch-case statements
+
+Learned to work with command-line arguments
+
+Improved decision-making logic using multiple conditions
+
+Enhanced confidence in writing complete programs independently
