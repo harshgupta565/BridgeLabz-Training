@@ -1,3 +1,23 @@
+File Structure :
+Current Structure of Git Hub
+
+BridgeLabz-Training/
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+
+
 Day 1 Training Tasks [16.12.2025]
 
 This repository contains the tasks completed on the first day of my training.
