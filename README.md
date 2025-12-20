@@ -105,4 +105,12 @@ BridgeLabz-Training/
 - Calculator using switch-case  
 - Day of Week program using command-line arguments  
 - Grade calculation based on percentage  
-- Youngest
+- Youngest and tallest among friends  
+- FizzBuzz using `for` and `while` loops  
+
+## 🎯 **Learning Outcome**
+- Gained clarity on switch-case statements  
+- Learned to work with command-line arguments  
+- Improved decision-making logic using multiple conditions  
+- Enhanced confidence in writing complete programs independently  
+  
