@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class BankAccount {
     double balance = 700;
 

@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class Student {
     String name, roll;
     double m1, m2, m3;

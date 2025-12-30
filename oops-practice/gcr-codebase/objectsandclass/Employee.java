@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class Employee {
     String name;
     int id;

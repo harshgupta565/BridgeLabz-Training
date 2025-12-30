@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class Circle {
     double radius = 2.5;
 

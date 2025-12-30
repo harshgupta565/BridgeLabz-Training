@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class PalindromeCheck{
     String text = "A man a plan a canal Panama";
 

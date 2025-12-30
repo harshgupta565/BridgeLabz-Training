@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class MobilePhone {
     String brand, model;
     double price;

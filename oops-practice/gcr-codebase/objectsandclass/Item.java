@@ -1,4 +1,4 @@
-package methodsandclass;
+package objectsandclass;
 class Item {
     String code, name;
     double price;
