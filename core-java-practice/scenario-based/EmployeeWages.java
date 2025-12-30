@@ -19,7 +19,11 @@ public class EmployeeWages {
         return (int) (Math.random() * 3);
     }
 
-    // method 2: get working hours
+    // use case 2 : calculate daily wage
+    static int calculateDailyWage(int hours) {
+        return hours * WAGE_PER_HOUR;
+    }
+    //  use case :3
     static int getEmployeeHours(int status) {
         if (status == IS_FULL_TIME) {
             return 8;
@@ -30,14 +34,10 @@ public class EmployeeWages {
         }
     }
 
-    // method 3: calculate daily wage
-    static int calculateDailyWage(int hours) {
-        return hours * WAGE_PER_HOUR;
-    }
-
     // method 4: print output
     static void printResult(int hours, int wage) {
         System.out.println("Employee Working Hours : " + hours);
         System.out.println("Employee Daily Wage   : ₹" + wage);
+        // method 5:
     }
 }
