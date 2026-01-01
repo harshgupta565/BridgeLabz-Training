@@ -1,31 +1,45 @@
 package oopsfundamental;
 
 class LibraryBook {
+
+    // static variable
+    static String libraryName = "Egmore Library";
+
+    // instance variables
     String title;
     String author;
-    double price;
-    boolean available;
+    final String isbn; // final variable
 
-    // Constructor (same name as class)
-    LibraryBook(String t, String a, double p) {
-        title = t;
-        author = a;
-        price = p;
-        available = true;
+    // constructor using this
+    LibraryBook(String title, String author, String isbn) {
+        this.title = title;
+        this.author = author;
+        this.isbn = isbn;
     }
 
-    void borrowBook() {
-        if (available) {
-            available = false;
-            System.out.println("Book borrowed successfully");
-        } else {
-            System.out.println("Book already borrowed");
+    // static method
+    static void displayLibraryName() {
+        System.out.println("Library Name: " + libraryName);
+    }
+
+    // instance method
+    void displayDetails(Object obj) {
+        if (obj instanceof LibraryBook) {
+            LibraryBook b = (LibraryBook) obj;
+            System.out.println("Title: " + b.title);
+            System.out.println("Author: " + b.author);
+            System.out.println("ISBN: " + b.isbn);
         }
     }
 
     public static void main(String[] args) {
-        LibraryBook b = new LibraryBook("Java OOP", "Sun", 350);
-        b.borrowBook();
-        b.borrowBook();
+        LibraryBook book = new LibraryBook(
+                "Effective Java",
+                "Joshua Bloch",
+                "978-0134685991"
+        );
+
+        displayLibraryName();
+        book.displayDetails(book);
     }
 }
