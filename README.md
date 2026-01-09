@@ -2,7 +2,7 @@
 
 ## Current Structure of GitHub
 
-
+<pre>
 BridgeLabz-Training/
 |
 +-- core-java-practice/ (Branch & Folder Name)
@@ -18,7 +18,7 @@ BridgeLabz-Training/
 | +-- scenario-based/
 |
 +-- README.md
-
+</pre>
 # BridgeLabz Training
 
 ## 📌 Progress Tracker
