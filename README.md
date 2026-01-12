@@ -134,11 +134,15 @@ BridgeLabz-Training/
 
 ✅ Added and pushed 2 Matrix addition program to the review branch
 
+---
+
 📅 2026-01-06
 
 ✅ Focused on Encapsulation, Polymorphism, Interfaces, and Abstract Classes
 
 ✅ Implemented real-world system–based OOP examples
+
+---
 
 📅 2026-01-07
 
@@ -148,17 +152,23 @@ Online Banking System
 
 Cab Booking System
 
+---
+
 📅 2026-01-08
 
 ✅ Created a new branch dsa-practice
 
 ✅ Solved and pushed DSA practice problems
 
+---
+
 📅 2026-01-09
 
 ✅ Added Level 3 OOP Inheritance practice examples
 
 ✅ Implemented full class-based inheritance hierarchies
+
+---
 
 
 
