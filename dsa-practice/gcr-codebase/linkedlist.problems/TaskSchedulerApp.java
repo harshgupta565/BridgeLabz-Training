@@ -1,4 +1,5 @@
-package LinkedList;
+package linkedlist.problems;
+
 class TaskNode {
     int id, priority;
     String name, dueDate;

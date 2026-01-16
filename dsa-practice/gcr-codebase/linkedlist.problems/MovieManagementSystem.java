@@ -1,4 +1,5 @@
-package LinkedList;
+package linkedlist.problems;
+
 class MovieNode {
     String title;
     String director;

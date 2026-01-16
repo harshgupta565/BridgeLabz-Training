@@ -1,4 +1,5 @@
-package LinkedList;
+package linkedlist.problems;
+
 class StudentNode {
     int rollNo;
     String name;

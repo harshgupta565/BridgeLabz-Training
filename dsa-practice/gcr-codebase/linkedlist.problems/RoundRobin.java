@@ -1,4 +1,5 @@
-package LinkedList;
+package linkedlist.problems;
+
 import java.util.*;
 
 class Process {
