@@ -1,7 +1,7 @@
 package hashmaps;
 import java.util.LinkedList;
 
-class MyHashMap {
+class MyHash {
     private static class Node {
         int key, value;
         Node(int k, int v) {
@@ -13,7 +13,7 @@ class MyHashMap {
     private LinkedList<Node>[] buckets;
     private int size;
 
-    MyHashMap() {
+    MyHash() {
         buckets = new LinkedList[16];
     }
 
@@ -56,9 +56,9 @@ class MyHashMap {
     }
 }
 
-public class CustomHashMapTest {
+public class MyHashMap {
     public static void main(String[] args) {
-        MyHashMap map = new MyHashMap();
+        MyHash map = new MyHash();
         map.put(1, 10);
         map.put(2, 20);
         System.out.println(map.get(1));
