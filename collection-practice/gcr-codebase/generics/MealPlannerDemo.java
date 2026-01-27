@@ -11,15 +11,12 @@ class Meal<T extends MealPlanner> {
     public T getPlan() { return plan; }
     @Override public String toString() { return "MealPlan: " + plan.getName(); }
 }
-
-// Renamed class to avoid collision with interface
 public class MealPlannerDemo {
 
     public static <T extends MealPlanner> Meal<T> generateMealPlan(T plan) {
         System.out.println("Generating meal plan: " + plan.getName());
         return new Meal<>(plan);
     }
-
     public static void main(String[] args) {
         Meal<VegetarianMeal> m1 = generateMealPlan(new VegetarianMeal());
         Meal<VeganMeal> m2       = generateMealPlan(new VeganMeal());
