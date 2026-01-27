@@ -1,4 +1,4 @@
-package com.java.Collections.Queue;
+package Collections.Queue;
 import java.util.*;
 
 public class StacksUsingTwoQueue {

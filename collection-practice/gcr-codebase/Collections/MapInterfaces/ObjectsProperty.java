@@ -1,4 +1,4 @@
-package com.java.Collections.MapInterfaces;
+package Collections.MapInterfaces;
 import java.util.*;
 
 class Employee {

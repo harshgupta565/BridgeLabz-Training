@@ -1,4 +1,4 @@
-package com.java.Collections.List;
+package Collections.List;
 import java.util.*;
 public class RotateElements {
     public static <T> void rotateList(List<T> list, int positions) {

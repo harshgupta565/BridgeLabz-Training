@@ -1,4 +1,4 @@
-package com.java.Collections.List;
+package Collections.List;
 import java.util.*;
 public class FrequentElements {
     public static Map<String, Integer> countFrequencies(List<String> items) {

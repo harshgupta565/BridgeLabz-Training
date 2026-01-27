@@ -1,4 +1,4 @@
-package com.java.Collections.MapInterfaces;
+package coCollections.MapInterfaces;
 
 public class KeyHighest {
 

@@ -1,4 +1,4 @@
-package com.java.Collections.SetInterface;
+package Collections.SetInterface;
 import java.util.*;
 public class UnionIntersections {
     public static <T> void computeUnionAndIntersection(Set<T> set1, Set<T> set2) {
