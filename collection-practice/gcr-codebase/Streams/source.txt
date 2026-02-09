@@ -1,3 +1,0 @@
-This is the original source file.
-It contains multiple lines of text.
-Used for testing FileInputStream and FileOutputStream.
