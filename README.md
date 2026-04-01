@@ -1,10 +1,11 @@
-core-java-practice
-File Structure :
-Current Structure of Git Hub
+# BridgeLabz Training
 
+## 📁 File Structure
+
+<pre>
 BridgeLabz-Training/
 |
-+-- core-java-practice/(Branch & Folder Name)
++-- core-java-practice/
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -17,314 +18,202 @@ BridgeLabz-Training/
 |   +-- scenario-based/
 |
 +-- README.md
-
-
-Day 1 Training Tasks [16.12.2025]
-
-This repository contains the tasks completed on the first day of my training.
-
-Tasks Covered
-
-Basic Java programs
-
-Palindrome number program
-
-Reverse an array
-
-Sum of array elements
-
-Maximum element of an array
-
-Second largest element of an array
-
-Learning Outcome
-
-Gained hands-on practice with basic Java syntax
-
-Improved understanding of loops and conditional statements
-
-Learned how to push code to GitHub using Git
-
-Day 2 Training Tasks[17.12.2025]
-
-This repository contains the tasks completed on Day 2 of my training.
-
-Tasks Covered
-
-Arithmetic-based Java programs
-
-Percentage and average calculation
-
-Bonus calculation
-
-Multiplication tables
-
-Simple real-life problem-based programs
-
-Key Learning & Insights
-
-Practiced using arithmetic operators like +, -, *, /, and %
-
-Learned to calculate percentages, averages, and discounts
-
-Improved ability to store and manipulate values using variables
-
-Strengthened logical thinking through step-by-step problem solving
-
-Day 3 Training Tasks[18.12.2025]
-
-This repository contains the tasks completed on Day 3 of my training.
-
-Tasks Covered
-
-Odd and even number programs
-
-Prime number check
-
-Factors of a number using for and while loops
-
-Greatest factor of a number
-
-Power of a number
-
-Multiples of a number below 100
-
-Learning Outcome
-
-Developed a clear understanding of for and while loops
-
-Learned how to break loops using conditions
-
-Improved logic for divisor- and factor-based problems
-
-Gained confidence in solving number-based problems
-
-Day 4 Training Tasks[19.12.2025]
-
-This repository contains the tasks completed on Day 4 of my training.
-
-Tasks Covered
-
-Armstrong number check
-
-Harshad number check
-
-Abundant number check
-
-Digit counting program
-
-BMI calculator
-
-Leap year program using if-else and logical operators
-
-Learning Outcome
-
-Learned to extract digits from numbers using loops
-
-Improved understanding of mathematical logic in programming
-
-Practiced boolean logic and conditional chaining
-
-Strengthened problem analysis and implementation skills
-
-Day 5 Training Tasks[20.12.2025]
-
-This repository contains the tasks completed on Day 5 of my training.
-
-Tasks Covered
-
-Calculator using switch-case
-
-Day of Week program using command-line arguments
-
-Grade calculation based on percentage
-
-Youngest and tallest among friends
-
-FizzBuzz using for and while loops
-
-Learning Outcome
-
-Gained clarity on switch-case statements
-
-Learned to work with command-line arguments
-
-Improved decision-making logic using multiple conditions
-
-Enhanced confidence in writing complete programs independently
-# 📁 File Structure
-
-## Current Structure of GitHub
-
-<pre>
-BridgeLabz-Training/
-|
-+-- core-java-practice/ (Branch & Folder Name)
-| |
-| +-- gcr-codebase/
-| | |
-| | +-- programming-elements/
-| | |
-| | +-- control-flow/
-| |
-| +-- leet-code-codebase/
-| |
-| +-- scenario-based/
-|
-+-- README.md
 </pre>
-# BridgeLabz Training
+
+---
+
+## 📘 Day-wise Training Tasks
+
+### 📅 Day 1 [16.12.2025]
+
+**Tasks Covered**
+- Basic Java programs
+- Palindrome number program
+- Reverse an array
+- Sum of array elements
+- Maximum element of an array
+- Second-largest element of an array
+
+**Learning Outcome**
+- Learned basic Java syntax
+- Improved understanding of loops and conditions
+- Learned Git & GitHub basics
+
+---
+
+### 📅 Day 2 [17.12.2025]
+
+**Tasks Covered**
+- Arithmetic-based Java programs
+- Percentage & average calculation
+- Bonus calculation
+- Multiplication tables
+- Real-life problem-based programs
+
+**Learning Outcome**
+- Practiced arithmetic operators (+, -, * /, %)
+- Learned calculations & logic building
+- Improved problem-solving skills
+
+---
+
+### 📅 Day 3 [18.12.2025]
+
+**Tasks Covered**
+- Odd/Even programs
+- Prime number check
+- Factors using loops
+- Greatest factor
+- Power of number
+- Multiples below 100
+
+**Learning Outcome**
+- Strong understanding of loops
+- Learned factor/divisor logic
+- Improved number-based problem-solving
+
+---
+
+### 📅 Day 4 [19.12.2025]
+
+**Tasks Covered**
+- Armstrong number
+- Harshad number
+- Abundant number
+- Digit counting
+- BMI calculator
+- Leap year program
+
+**Learning Outcome**
+- Learned digit extraction logic
+- Improved mathematical logic
+- Practiced conditional statements
+
+---
+
+### 📅 Day 5 [20.12.2025]
+
+**Tasks Covered**
+- Calculator (switch-case)
+- Day of Week (CLI args)
+- Grade calculation
+- Youngest & tallest logic
+- FizzBuzz
+
+**Learning Outcome**
+- Learned switch-case
+- Worked with command-line arguments
+- Improved decision-making logic
+
+---
 
 ## 📌 Progress Tracker
 
 ### 📅 2025-12-17
-
-* ✅ First commit
-* ✅ Uploaded `question1`
-* ✅ Added all folders and sample files
-* ✅ Solved 10 programming codebase questions
+- ✅ First commit
+- ✅ Uploaded question1
+- ✅ Added folders & files
+- ✅ Solved 10 problems
 
 ---
 
 ### 📅 2025-12-18
-
-* ✅ Added 5 more Java programs
-* ✅ Removed `out` folder, `.idea`, and updated `.gitignore`
-* ✅ Added **Level 2** package containing level assignments
-* ✅ Added 16 questions for **Level 1** assignment
+- ✅ Added 5 Java programs
+- ✅ Updated `.gitignore`
+- ✅ Added Level 2 package
+- ✅ Added 16 Level 1 questions
 
 ---
 
 ### 📅 2025-12-19
-
-* ✅ Moved programs to `level1` package
-* ✅ Renamed classes for better clarity
+- ✅ Organized code into packages
+- ✅ Renamed classes
 
 ---
 
 ### 📅 2025-12-20
-
-* ✅ Completed **Level 1, Level 2, and Level 3** control-flow Java core questions
-* ✅ Added scenario-based programs:
-
-  * BMI Calculator
-  * Coffee Counter
-* ✅ Completed **Level 1 & Level 2** array assignments
+- ✅ Completed Level 1, 2, 3 control-flow
+- ✅ Added BMI & Coffee Counter
+- ✅ Completed array assignments
 
 ---
 
 ### 📅 2025-12-22
-
-* ✅ Added **Level 1, Level 2, and Level 3** string-based Java programs
+- ✅ Added string programs
 
 ---
 
 ### 📅 2025-12-24
-
-* ✅ Added **Level 1, Level 2, and Level 3** Java methods programs
+- ✅ Added Java methods programs
 
 ---
 
 ### 📅 2025-12-28
-
-* ✅ Added **Level 1 & Level 2** Java built-in methods programs
+- ✅ Added built-in methods programs
 
 ---
 
 ### 📅 2025-12-29
-
-* ✅ Added new scenario-based programs:
-
-  * DigitalWatchSimulation
-  * MovieTicketBookingApp
-  * LibraryReminderApp
-  * FitnessChallengeTracker
-* ✅ Added `EmployeeWageComputation` to scenario-based core Java practice
+- ✅ Added scenario-based apps
+  - Digital Watch
+  - Movie Ticket Booking
+  - Library Reminder
+  - Fitness Tracker
+- ✅ Employee Wage Computation
 
 ---
 
 ### 📅 2025-12-30
-
-* ✅ Added `Line_Comparison` to scenario-based core Java practice
+- ✅ Line Comparison
 
 ---
 
 ### 📅 2025-12-31
-
-* ✅ Added `SnakeLadder` to scenario-based core Java practice
-* ✅ Added **StringExtras** programs:
-
-  * Longest Word
-  * Palindrome Check
-  * Remove Duplicates
-  * Reverse String
-  * Substring Occurrence
-  * Vowel & Consonant Count
+- ✅ Snake & Ladder
+- ✅ StringExtras programs
 
 ---
 
 ### 📅 2026-01-01
-
-* ✅ Organized **Level 1 & Level 2** OOP practice files into proper packages
-* ✅ Added assignments on `this`, `static`, and `final` keywords
+- ✅ Organized OOP practice
+- ✅ Added `this`, `static`, `final`
 
 ---
 
 ### 📅 2026-01-02
-
-* ✅ Added OOP design principle class diagrams
+- ✅ Added OOP design diagrams
 
 ---
 
 ### 📅 2026-01-03
-
-* ✅ Added **Level 3 OOP inheritance** practice examples with full class implementations
-
----
-
-📅 2026-01-05
-
-✅ Created a new branch review
-
-✅ Added and pushed 2 Matrix addition program to the review branch
+- ✅ Added inheritance examples
 
 ---
 
-📅 2026-01-06
-
-✅ Focused on Encapsulation, Polymorphism, Interfaces, and Abstract Classes
-
-✅ Implemented real-world system–based OOP examples
+### 📅 2026-01-05
+- ✅ Created review branch
+- ✅ Added Matrix programs
 
 ---
 
-📅 2026-01-07
-
-✅ Added scenario-based OOP examples:
-
-Online Banking System
-
-Cab Booking System
+### 📅 2026-01-06
+- ✅ Practiced OOP concepts
+- ✅ Real-world implementations
 
 ---
 
-📅 2026-01-08
-
-✅ Created a new branch dsa-practice
-
-✅ Solved and pushed DSA practice problems
+### 📅 2026-01-07
+- ✅ Banking & Cab Booking systems
 
 ---
 
-📅 2026-01-09
-
-✅ Added Level 3 OOP Inheritance practice examples
-
-✅ Implemented full class-based inheritance hierarchies
+### 📅 2026-01-08
+- ✅ Created DSA branch
+- ✅ Added DSA problems
 
 ---
 
+### 📅 2026-01-09
+- ✅ Advanced inheritance programs
 
-
-  
-
+---
