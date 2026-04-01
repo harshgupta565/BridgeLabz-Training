@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BridgeLabz-Training.iml" filepath="$PROJECT_DIR$/.idea/BridgeLabz-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/Extras/Extras.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Extras/Extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops-practice/Scenario-based/Scenario-based.iml" filepath="$PROJECT_DIR$/oops-practice/Scenario-based/Scenario-based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/core-java-practice.iml" filepath="$PROJECT_DIR$/core-java-practice/core-java-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/gcr-codebase.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/gcr-codebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops-practice/leet-code-codebase/leet-code-codebase.iml" filepath="$PROJECT_DIR$/oops-practice/leet-code-codebase/leet-code-codebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/methods/methods.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops-practice/oops-practice.iml" filepath="$PROJECT_DIR$/oops-practice/oops-practice.iml" />
+    </modules>
+  </component>
+</project>
