@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/dsa-practice/gcr-codebase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops-practice/scenario-based" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Refresher-Training" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
