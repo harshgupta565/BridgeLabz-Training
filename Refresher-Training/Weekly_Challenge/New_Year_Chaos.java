@@ -8,13 +8,6 @@ import java.io.*;
         import java.util.regex.*;
 
 class Results {
-
-    /*
-     * Complete the 'minimumBribes' function below.
-     *
-     * The function accepts INTEGER_ARRAY q as parameter.
-     */
-
     public static void minimumBribes(List<Integer> q) {
         int bribes = 0;
         for (int i = 0; i < q.size(); i++) {
@@ -44,9 +37,6 @@ class Results {
     }
 
 }
-
-
-
 public class New_Year_Chaos{
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
