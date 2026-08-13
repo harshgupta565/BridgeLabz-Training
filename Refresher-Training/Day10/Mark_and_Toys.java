@@ -1,4 +1,4 @@
-package Weekly_Challenge;
+package Day10;
 import java.io.*;
         import java.math.*;
         import java.security.*;
@@ -14,35 +14,36 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
-     * Complete the 'rotLeft' function below.
+     * Complete the 'maximumToys' function below.
      *
-     * The function is expected to return an INTEGER_ARRAY.
+     * The function is expected to return an INTEGER.
      * The function accepts following parameters:
-     *  1. INTEGER_ARRAY a
-     *  2. INTEGER d
+     *  1. INTEGER_ARRAY prices
+     *  2. INTEGER k
      */
 
-    public static List<Integer> rotLeft(List<Integer> a, int d) {
-        // Write your code here
-        int n = a.size();
-        d = d % n;
+    public static int maximumToys(List<Integer> prices, int k) {
+        // Write your code here"
+        Collections.sort(prices);
 
-        List<Integer> result = new ArrayList<>();
+        int total = 0;
+        int count = 0;
 
-        // Add elements from index d to end
-        for (int i = d; i < n; i++) {
-            result.add(a.get(i));
+        for (int price : prices) {
+            if (total + price > k) {
+                break;
+            }
+
+            total += price;
+            count++;
         }
 
-        // Add first d elements
-        for (int i = 0; i < d; i++) {
-            result.add(a.get(i));
-        }
-
-        return result;
+        return count;
     }
+
 }
-public class Array_Left_Rotation {
+
+public class Mark_and_Toys {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
@@ -51,20 +52,16 @@ public class Array_Left_Rotation {
 
         int n = Integer.parseInt(firstMultipleInput[0]);
 
-        int d = Integer.parseInt(firstMultipleInput[1]);
+        int k = Integer.parseInt(firstMultipleInput[1]);
 
-        List<Integer> a = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+        List<Integer> prices = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        List<Integer> result = Result.rotLeft(a, d);
+        int result = Result.maximumToys(prices, k);
 
-        bufferedWriter.write(
-                result.stream()
-                        .map(Object::toString)
-                        .collect(joining(" "))
-                        + "\n"
-        );
+        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.newLine();
 
         bufferedReader.close();
         bufferedWriter.close();

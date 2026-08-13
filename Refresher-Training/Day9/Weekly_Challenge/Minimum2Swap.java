@@ -1,11 +1,6 @@
-package Weekly_Challenge;
+package Day9.Weekly_Challenge;
 import java.io.*;
-        import java.math.*;
-        import java.security.*;
-        import java.text.*;
-        import java.util.*;
-        import java.util.concurrent.*;
-        import java.util.regex.*;
+import java.util.*;
 
 public class Minimum2Swap {
     static int minimumSwaps(int[] arr) {

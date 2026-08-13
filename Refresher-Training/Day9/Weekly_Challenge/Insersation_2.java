@@ -1,4 +1,4 @@
-package Weekly_Challenge;
+package Day9.Weekly_Challenge;
 
 import java.util.Scanner;
 
